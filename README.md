@@ -2,7 +2,8 @@
 
 
 ###  About me 
-Hello there, I'm a MSc Data Science student at University of Catania, with a background in Statistics and Economics. 
+
+I'm a MSc Data Science student at University of Catania, with a background in Statistics and Economics. 
 Currently working on projects on Machine Learning, Econometrics, Computer Science and their intersection. 
 
 
